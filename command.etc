@@ -1,0 +1,3 @@
+查看当前目录:ls -a -l
+打开防火墙:systemctl start firewalld
+关闭防火墙:systemctl stop firewalld
